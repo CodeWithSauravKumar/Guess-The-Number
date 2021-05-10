@@ -15,5 +15,3 @@ while (i <= 5):
     i = i + 1  # this line will increment the i by 1 until <=5 to the 3 line
     if i > 5:
         print("Game Over")
-
-
